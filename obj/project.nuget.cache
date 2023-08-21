@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "txFDFdRTr5bunj62xrQOKUp4VqntiMCDZW6SsvPUGLtzGWez64ykI7X2ZkVo1JsZDFRRv0IDHSJDUvhkzXf4XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sean_\\Desktop\\backend-dotnet\\l05-crud\\L05_crud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\sean_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
